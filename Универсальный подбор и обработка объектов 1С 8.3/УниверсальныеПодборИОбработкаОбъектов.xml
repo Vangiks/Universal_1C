@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<ExternalDataProcessor uuid="761bfbde-2485-4369-addb-4c8a820d2446">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
+				<xr:ObjectId>f1bb5a56-9497-4fe5-80cf-a4db6abe9ac0</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:GeneratedType name="ExternalDataProcessorObject.УниверсальныеПодборИОбработкаОбъектов" category="Object">
+				<xr:TypeId>15002a7f-aa3f-4526-ab21-7e0ef310990d</xr:TypeId>
+				<xr:ValueId>573f08e4-3097-41e8-b74c-d45c563df4d1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>УниверсальныеПодборИОбработкаОбъектов</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Универсальные подбор и обработка объектов</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DefaultForm>ExternalDataProcessor.УниверсальныеПодборИОбработкаОбъектов.Form.ПодборИОбработка</DefaultForm>
+			<AuxiliaryForm/>
+		</Properties>
+		<ChildObjects>
+			<Form>ПодборИОбработка</Form>
+			<Form>ФормаОтбора</Form>
+			<Form>ПроизвольныйАлгоритм</Form>
+			<Form>УстановкаРеквизитов</Form>
+			<Form>ШаблонОбработки</Form>
+			<Form>ПеренумерацияОбъектов</Form>
+			<Form>ПометитьНаУдаление</Form>
+			<Form>ПровестиДокументы</Form>
+			<Form>ОтменитьПроведениеДокументов</Form>
+		</ChildObjects>
+	</ExternalDataProcessor>
+</MetaDataObject>
